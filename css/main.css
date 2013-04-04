@@ -1,0 +1,20 @@
+h1{
+    font-size: 24px;
+}
+h2{
+    font-size: 20px;
+    font-weight: normal;
+    margin: 0px;
+    padding: 0px;
+}
+section{
+    margin: 5px 0px 25px 10px;
+}
+p{
+    margin-left: 10px;
+    padding: 0px;
+}
+
+a{
+    color: #80aba9;
+}
