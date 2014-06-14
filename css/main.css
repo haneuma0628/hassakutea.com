@@ -1,9 +1,5 @@
 body {
     margin: 0;
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
 }
 * {
     font-family: sans-serif;
@@ -17,7 +13,6 @@ a {text-decoration: none;}
 
 header {
     width: 80%;
-<<<<<<< HEAD
     padding:16px 0; margin: 16px auto;
     text-align: left;
     background-color: #fff;
@@ -30,11 +25,6 @@ footer {
     background-color: #fff;
     border-top: 1px dotted #aaa;
     font-size: 12px;
-=======
-    padding:32px 0; margin: 0 auto;
-    text-align: left;
-    background-color: #fff;
->>>>>>> origin/master
 }
 h1 {
     margin: 0; padding: 0;
@@ -47,22 +37,15 @@ header a {color: #e6b422;}
     margin: 0 auto;
     overflow: hidden;
     background-color: #fff;
-<<<<<<< HEAD
     overflow: hidden;
-=======
->>>>>>> origin/master
 }
 .container_me, .container_dev {
     float: left;
     width: 50%; height: 100%;
-<<<<<<< HEAD
 }
 .wrapper {
     width: 95%;
     margin: 0 auto;
-=======
-    padding: 0;
->>>>>>> origin/master
 }
 #contents a {
     display: block;
@@ -85,7 +68,6 @@ header a {color: #e6b422;}
 .container_me > a {color: #80aba9;}
 .container_dev > a {color: #f08300;}
 
-<<<<<<< HEAD
 @media only screen
 and (min-device-width : 320px)
 and (max-device-width : 568px)
@@ -108,5 +90,4 @@ and (max-device-width : 568px)
 	text-align: center; vertical-align: middle;
     }
 }
-=======
->>>>>>> origin/master
+
