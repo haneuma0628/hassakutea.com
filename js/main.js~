@@ -1,1 +1,0 @@
-$(".icon").before("<span class='node'></span>");
