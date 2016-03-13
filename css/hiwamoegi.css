@@ -1,7 +1,19 @@
+li#button-index {
+    background-image: url(../img/bunch-hanaba.svg);
+}
+
+li#button-link {
+    background-image: url(../img/bunch-siro.svg);
+}
+
+li#button-work {
+    background-image: url(../img/bunch-sangosyu.svg);
+}
+
 body {
     background-color: #90b44b;
 }
 
 hr {
-    background-image: url(../img/tie-hanaba.svg);
+    background-image: url(../img/tie-hiwamoegi.svg);
 }

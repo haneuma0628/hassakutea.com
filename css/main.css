@@ -19,7 +19,6 @@ body {
 }
 
 a {
-    text-decoration: none;
     color: #828282;
 }
 
@@ -31,23 +30,20 @@ a {
     /* min-height: 100%; */
 }
 
-header {
-    padding-top:    100px;
-    padding-bottom: 50px
-}
-
-img#logo {
-    height: 100px;
-    width: auto;
+h1 {
+    margin: 0;
+    padding-top: 75px;
+    padding-bottom: 28px;
 }
 
 #main {
     background-color: #fff;
     width: 100%;
+    padding-top: 10px;
 }
 
 nav {
-    padding-top: 20px;
+    padding-bottom: 28px;
     text-align: center;
 }
 
@@ -58,28 +54,12 @@ nav ul {
 
 nav li {
     display: inline-block;
-    width: 28%;
-    height: 22px;
-    margin: 10px;
+    height: 58px;
+    margin: 0 18px;
     background-repeat: no-repeat;
-    background-position: left bottom;
-    padding-left: 34px;
-    padding-bottom: 45px;
-    font-size: 16px;
-    background-size: auto 35px;
+    background-position: left top;
+    padding-top: 42px;
     text-align: left;
-}
-
-li.hanaba {
-    background-image: url(../img/bunch-hanaba.svg);
-}
-
-li.hiwamoegi {
-    background-image: url(../img/bunch-hiwamoegi.svg);
-}
-
-li.sangosyu {
-    background-image: url(../img/bunch-sangosyu.svg);
 }
 
 /* @media (min-width: 768px) */
@@ -88,7 +68,7 @@ li.sangosyu {
 /* } */
 
 hr {
-    height: 32px;
+    height: 35px;
     background-repeat: repeat-x;
     background-position: center;
     border: none;

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="1024px" height="36px" viewBox="0 0 1024 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
-    <title>Group</title>
+    <title>tie</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Desktop---花葉" sketch:type="MSArtboardGroup" transform="translate(0.000000, -280.000000)" stroke-width="4">
-            <g id="Group" sketch:type="MSLayerGroup" transform="translate(0.000000, 283.000000)">
-                <path d="M0,11 L1023.49951,11" id="Line" stroke="#FCC104" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-                <g id="Group-4" transform="translate(488.000000, 0.000000)" stroke="#F7C442" fill="#FFFFFF" sketch:type="MSShapeGroup">
+        <g id="colorful-hiwamoegi" sketch:type="MSArtboardGroup" transform="translate(0.000000, -293.000000)" stroke="#90B44B" stroke-width="4">
+            <g id="tie" sketch:type="MSLayerGroup" transform="translate(0.000000, 296.000000)">
+                <path d="M0,11 L1023.49951,11" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <g id="Group-4" transform="translate(488.000000, 0.000000)" fill="#FFFFFF" sketch:type="MSShapeGroup">
                     <path d="M5.26124569,22 L0,18.7425966 L0,3.22591244 L5.28208968,6.95365545e-16 L24.0234604,10.9938863 L5.26124569,22 Z" id="Triangle-1"></path>
                     <path d="M43.0027968,21.9998276 L48.0469208,18.9104387 L48.0469208,3.1007526 L43.0061245,6.86963184e-16 L24.0234604,11.000878 L43.0027968,21.9998276 Z" id="Triangle-1"></path>
                     <path d="M33.5147061,11.4821494 L14.5320421,22.4830274 L33.5113784,33.4819769 L33.5113784,33.4819769" id="Triangle-1" transform="translate(24.023374, 22.482063) rotate(-270.000000) translate(-24.023374, -22.482063) "></path>
