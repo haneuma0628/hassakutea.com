@@ -17,3 +17,7 @@ body {
 hr {
     background-image: url(../img/tie-hiwamoegi.svg);
 }
+
+h2, h3 {
+    color: #90b44b;
+}

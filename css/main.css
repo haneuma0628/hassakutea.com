@@ -83,23 +83,29 @@ hr {
 #contents .section {
     padding: 10px;
     line-height: 280%;
+    margin-bottom: 30px;
 }
 
-#contents h3 {
-    margin: 0;
-    margin-top: 40px;
-    padding: 10px;
-    color: #f7c442;
-    font-weight: normal;
-    font-size: 16px;
+#contents .fa {
+    margin-right: 8px;
 }
 
-#contents h2 {
+p {
     margin: 0;
-    padding: 10px;
-    color: #f7c442;
+}
+
+h2 {
+    margin: 0;
     font-weight: normal;
     font-size: 18px;
+    padding: 0 10px;
+}
+
+h3 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 0 10px;
 }
 
 footer {

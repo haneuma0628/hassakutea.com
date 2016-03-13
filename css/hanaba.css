@@ -17,3 +17,7 @@ body {
 hr {
     background-image: url(../img/tie-hanaba.svg);
 }
+
+h2, h3 {
+    color: #f7c442;
+}

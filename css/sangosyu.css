@@ -17,3 +17,7 @@ body {
 hr {
     background-image: url(../img/tie-sangosyu.svg);
 }
+
+h2, h3 {
+    color: #f17867;
+}
