@@ -1,12 +1,12 @@
-li#button-index {
+#button-index {
     background-image: url(../img/bunch-hanaba.svg);
 }
 
-li#button-link {
+#button-link {
     background-image: url(../img/bunch-siro.svg);
 }
 
-li#button-work {
+#button-work {
     background-image: url(../img/bunch-sangosyu.svg);
 }
 
